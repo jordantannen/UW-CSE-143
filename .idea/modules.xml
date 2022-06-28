@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW2-GuitarHero/HW2-GuitarHero.iml" filepath="$PROJECT_DIR$/HW2-GuitarHero/HW2-GuitarHero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/UW-CSE-143.iml" filepath="$PROJECT_DIR$/.idea/UW-CSE-143.iml" />
+    </modules>
+  </component>
+</project>
